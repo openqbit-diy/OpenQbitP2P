@@ -1,5 +1,5 @@
 # OpenQbitP2P
-Mobile phone communication through "Tor" network and synchronization of P2P files with "Syncthing"
+Programming blockly in mobile phone communication through "Tor" network and synchronization of P2P files with "Syncthing"
 
 ![P2P](https://user-images.githubusercontent.com/60530547/89117654-207bef80-d465-11ea-85d4-1114ba89bbe0.png)
 
@@ -36,6 +36,6 @@ Synchronization can be used without any connection to the project or community s
 
 More information can be found in the reference: https://syncthing.net/
 
-Foundation OpenQbit
+By Foundation OpenQbit
 
 www.OpenQbit.com
