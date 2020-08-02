@@ -14,7 +14,9 @@ This is an extension (OpenQbitP2PwithSSH) to use the communication systems; Red 
 
 Peer-to-peer networks leverage, manage and optimize the use of bandwidth of other network users through connectivity between them, and thus obtain more performance in connections and transfers than with some conventional centralized methods, where a relatively small number of servers provide the total bandwidth and shared resources for a service or application. 
 Such networks are useful for a variety of purposes. They are often used to share files of any kind (e.g. audio, video or software). This type of network is also often used in VoIP telephony to make real-time data transmission more efficient. 
+
 The efficiency of the nodes in the data link and transmission may vary depending on their local configuration (firewall, NAT, routers, etc.), processing speed, bandwidth availability of your network connection and disk storage capacity. 
+
 In our case we will be using the functionalities of two developments with maturity in their use and characteristics in communication, security and diversity for their use.
 
 The first is the "Tor" network - Tor (acronym for The Onion Router) is a project whose main objective is the development of a low-latency distributed communications network superimposed on the Internet, in which the routing of messages exchanged between users does not reveal their identity, i.e. their IP address (anonymity at network level) and which, moreover, maintains the integrity and secrecy of the information that travels through it.
