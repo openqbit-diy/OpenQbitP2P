@@ -6,7 +6,7 @@ Programming blockly in mobile phone communication through "Tor" network and sync
 
 Extension OpenQbitP2PwithSSH is located in the Extension directory.
 
-The user manual is in the Handbook directory (Spanish and English)
+The user's guide is in the Handbook directory (Spanish and English)
 
 We are working on the user manuals in languages ​​(Dutch, Russian, Italian, Japanese, Chinese, German, French and Portuguese) in August they will be ready.
 
