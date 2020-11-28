@@ -36,6 +36,8 @@ Synchronization can be used without any connection to the project or community s
 
 More information can be found in the reference: https://syncthing.net/
 
-By Foundation OpenQbit
+By OpenQbit.
 
-www.OpenQbit.com
+www.OpenQbit.com & www.coinsolidation.org
+
+Developments launched in Estonia 2020-2021
